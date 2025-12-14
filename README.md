@@ -18,8 +18,8 @@ The assignment, which covers distributed data preparation, advanced querying, an
 ## Repository Content
 
 * **`Big_Data_HW1_Python_PySpark.ipynb`**: Full solution notebook written in Python/PySpark, including all code, outputs, and analysis.
-* **`data/dataset_N0.txt`**: The raw Big Data input file used for the assignment.
-* **`docs/Assignment_Instructions_1.pdf`**: Original assignment instructions.
+* **`dataset_N0.txt`**: The raw Big Data input file used for the assignment.
+* **`Assignment_Instructions_1.pdf`**: Original assignment instructions.
 
 ***
 *Course: Big Data (PySpark), Shenkar College, IE&M*
